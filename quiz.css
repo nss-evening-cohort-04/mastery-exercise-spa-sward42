@@ -1,0 +1,11 @@
+.cars {
+	background-color: #8F85B1;
+	padding: 10px;
+	border: 2px solid black;
+	
+}
+
+.selected-car {
+	border: 4px solid black;
+	background-color: lightgrey;
+}
