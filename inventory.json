@@ -1,0 +1,25 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "$8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Toyota",
+      "model": "Prius",
+      "year": "2008",
+      "price": "$6000",
+      "description": "We have a 2008 Toyota Prius with only 30000 miles on it. In great condition and would make a great commuter car."
+    },
+    {
+      "make": "Ford",
+      "model": "Explorer",
+      "year": "1998",
+      "price": "$2000",
+      "description": "The best deal on the lot! This is a great workhorse of a car. It has 145,000 miles, but will go for another 100,000 with proper care."
+    }
+  ]
+}
